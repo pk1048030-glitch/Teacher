@@ -1,0 +1,6 @@
+{
+  "name": "Teacher Base Academy",
+  "description": "A comprehensive educational assistant and curriculum companion for primary teachers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
